@@ -42,8 +42,9 @@ The correct answer, explanation, and real-world use case will be shared in the c
 
 Let's learn DevOps the way it's used in production—through scenarios, commands, and practical problem-solving.
 
-🎯 STAY TUNED AT 8AM DAILY
+### 🎯 STAY TUNED AT 8AM DAILY
 
+---
 
 Created by
 
