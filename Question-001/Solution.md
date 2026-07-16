@@ -2,7 +2,7 @@
 
 ## Correct Answer
 
-**A. `top`**
+## **A. `top`**
 
 When a server becomes slow, you don't yet know the root cause. The issue could be due to:
 
